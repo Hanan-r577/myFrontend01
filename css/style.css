@@ -1,0 +1,66 @@
+body{
+    background-color: #E9FFEB;
+    font-family: 'Poppins', sans-serif;
+}
+
+.btn-outline-primary{
+    background-color: #004225;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.btn-outline-primary:hover{
+    background-color: #39f539;
+    border: #004225 solid 1px;
+    color: #004225;
+}
+
+.textButtonMasuk{
+    color: #ffffff;
+}
+
+.custom-control{
+    width: auto;
+}
+
+.carousel-control-prev{
+    left: 40px; 
+}
+.carousel-control-next{
+    right: 40px;
+}
+
+.hero_section{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.social-icon{
+    width: 45px;
+    height: 45px;
+    background-color: #00a651;
+    color: white;
+    border-radius: 50%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+
+.social-icon:hover{
+    background-color: #008643;
+    color: white;
+}
+
+.footer{
+  background-color: #19553B; 
+  color: white; 
+  font-family: Arial, sans-serif; 
+  font-size: 15px
+}
